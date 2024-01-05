@@ -35,25 +35,25 @@ To get started with the Mortar Calculator, follow these steps:
 
 1\. Clone the repository:
 
-    `git clone https://github.com/ArtursMednis/TypescriptCodeSample.git`
+    git clone https://github.com/ArtursMednis/TypescriptCodeSample.git
 
 2\. Navigate to the project directory:
 
-    `cd TypescriptCodeSample`
+    cd TypescriptCodeSample
 
 3\. Set up and run the logic tests:
 	
-    `cd mortar_logic`
-    `npm install`
-    `npm test`
+    cd mortar_logic
+    npm install
+    npm test
 
 4\. Set up and run the UI:
 
-    `cd ../mortar_browser`
+    cd ../mortar_browser
 
-    `npm install`
+    npm install
 
-    `npm start`
+    npm start
 
 5\. Open your browser and go to http://localhost:3000/ to interact with the Mortar Calculator UI.
 
